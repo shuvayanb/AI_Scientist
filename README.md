@@ -32,5 +32,5 @@ The above choice (besides the choice of ODE class) becomes the parameters that A
 
 The report: the full 10 page paper written up by AI Scientist at the end of this is shown below
 
-<img width="891" alt="sakana2" src="https://github.com/user-attachments/assets/6fc2c4dc-bcf7-4dcb-aa3a-709d85a34dbb" />
+<img width="884" alt="sakana2" src="https://github.com/user-attachments/assets/7421b91b-3549-4af0-876f-c135da3e584c" />
 
