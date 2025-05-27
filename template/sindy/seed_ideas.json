@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "linear_sho_baseline",
+    "Title": "Linear Damped SHO – Baseline",
+    "Experiment": "--ode_fn linear_damped_SHO --poly_order 5 --threshold 0.05",
+    "Interestingness": 5,
+    "Feasibility": 10,
+    "Novelty": 2
+  },
+  {
+    "Name": "cubic_sho_high_order",
+    "Title": "Cubic Damped SHO with Higher‑Order Polynomial Library",
+    "Experiment": "--ode_fn cubic_damped_SHO --poly_order 7 --threshold 0.02",
+    "Interestingness": 6,
+    "Feasibility": 9,
+    "Novelty": 4
+  }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "linear_sho_baseline",
+        "Title": "Linear Damped SHO \u2013 Baseline",
+        "Experiment": "--ode_fn linear_damped_SHO --poly_order 5 --threshold 0.05",
+        "Interestingness": 5,
+        "Feasibility": 10,
+        "Novelty": 2,
+        "novel": false
+    },
+    {
+        "Name": "cubic_sho_high_order",
+        "Title": "Cubic Damped SHO with Higher\u2011Order Polynomial Library",
+        "Experiment": "--ode_fn cubic_damped_SHO --poly_order 7 --threshold 0.02",
+        "Interestingness": 6,
+        "Feasibility": 9,
+        "Novelty": 4,
+        "novel": true
+    },
+    {
+        "Name": "lorenz_noise_robustness",
+        "Title": "Evaluating SINDy's Robustness to Noise in Lorenz System",
+        "Experiment": "--ode_fn lorenz --poly_order 3 --threshold 0.1 --t_end 50.0 --dt 0.01 --x0 1 1 1 --noise_levels 0.0 0.01 0.05 0.1 0.2",
+        "Interestingness": 8,
+        "Feasibility": 8,
+        "Novelty": 7,
+        "novel": true
+    }
+]
