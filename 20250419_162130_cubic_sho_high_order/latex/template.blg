@@ -1,0 +1,87 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template.aux
+The style file: iclr2024_conference.bst
+Database file #1: references.bib
+Repeated entry---line 99 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 110 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 121 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 132 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 143 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 164 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 175 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 225 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 247 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 258 of file references.bib
+ : @article{Brunton2015DiscoveringGE
+ :                                  ,
+I'm skipping whatever remains of this entry
+You've used 10 entries,
+            2773 wiz_defined-function locations,
+            660 strings with 6958 characters,
+and the built_in function-call counts, 4669 in all, are:
+= -- 381
+> -- 334
+< -- 4
++ -- 112
+- -- 102
+* -- 399
+:= -- 751
+add.period$ -- 31
+call.type$ -- 10
+change.case$ -- 63
+chr.to.int$ -- 10
+cite$ -- 20
+duplicate$ -- 207
+empty$ -- 352
+format.name$ -- 114
+if$ -- 954
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 12
+newline$ -- 59
+num.names$ -- 40
+pop$ -- 125
+preamble$ -- 1
+purify$ -- 54
+quote$ -- 0
+skip$ -- 158
+stack$ -- 0
+substring$ -- 89
+swap$ -- 13
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 0
+while$ -- 33
+width$ -- 0
+write$ -- 137
+(There were 10 error messages)
